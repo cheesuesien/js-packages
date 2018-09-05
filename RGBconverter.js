@@ -1,6 +1,6 @@
 //toHex: needs exception for non-integers. should move exception handling to input part
 //toRGB: needs exception handling. should move exception handling to input part
-
+//random comment
 function toHex(red, green, blue) { //takes string values
 	function toHex(dec) { //for single value
 		try {
